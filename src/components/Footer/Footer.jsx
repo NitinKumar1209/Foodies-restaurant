@@ -39,7 +39,7 @@ const Footer = () => {
               <a href="#">
                 <FaFacebook className="text-3xl" />
               </a>
-              <a href="#">
+              <a href="www.linkedin.com/in/nitin-tiwari-9415a6219">
                 <FaLinkedin className="text-3xl" />
               </a>
             </div>
@@ -89,7 +89,7 @@ const Footer = () => {
         </div>
         <div>
           <div className="text-center py-10 border-t-2 border-gray-300/50">
-            @copyright 2024 All rights reserved || Made with ❤️ by Dilshad
+            @copyright 2024 All rights reserved || Made with ❤️ by Nitin Kumar Tiwari
           </div>
         </div>
       </section>
