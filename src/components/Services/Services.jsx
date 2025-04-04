@@ -14,7 +14,7 @@ const ServicesData = [
   {
     id: 2,
     img: Img2,
-    name: "Chicken Curry",
+    name: "Paneer Butter Masala",
     description:
       "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
   },
