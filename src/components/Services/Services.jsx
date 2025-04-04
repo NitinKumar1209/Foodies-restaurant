@@ -14,14 +14,14 @@ const ServicesData = [
   {
     id: 2,
     img: Img2,
-    name: "Chiken kari",
+    name: "Chicken Curry",
     description:
       "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
   },
   {
     id: 3,
     img: Img2,
-    name: "Cold Cofee",
+    name: "Cold Coffee",
     description:
       "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
   },
