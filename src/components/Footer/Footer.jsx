@@ -29,7 +29,7 @@ const Footer = () => {
             </div>
             <div className="flex items-center gap-2">
               <FaMobileAlt />
-              <p>+91 123456789</p>
+              <p>+91 9580419536</p>
             </div>
             {/* Social Icons */}
             <div className="flex gap-4 mt-5 text-2xl">
@@ -39,7 +39,7 @@ const Footer = () => {
               <a href="#" aria-label="Facebook">
                 <FaFacebook />
               </a>
-              <a href="#" aria-label="LinkedIn">
+              <a href="www.linkedin.com/in/nitin-tiwari-9415a6219" aria-label="LinkedIn">
                 <FaLinkedin />
               </a>
             </div>
