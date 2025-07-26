@@ -39,7 +39,7 @@ const Footer = () => {
               <a href="#" aria-label="Facebook">
                 <FaFacebook />
               </a>
-              <a href="www.linkedin.com/in/nitin-tiwari-9415a6219"  
+              <a href="https://www.linkedin.com/in/nitin-tiwari-9415a6219"  
                 target="_blank" 
                 rel="noopener noreferrer" 
                 aria-label="LinkedIn">
