@@ -24,7 +24,7 @@ const ServicesData = [
   {
     id: 3,
     img: Img3,
-    name: "Cold Coffee",
+    name: "Chicken Biryani",
     rating: 4.0,
     description:
       "Refreshing blend of cold milk and coffee topped with whipped cream and ice.",
